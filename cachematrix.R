@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
+## Attempting to upload the document to GitHub with a revision
 
 makeCacheMatrix <- function(x = matrix()) {
 
